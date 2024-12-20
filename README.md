@@ -67,7 +67,7 @@
 <!-- STREAK STATS -->
 <div align="center">
   <h2>⚡ QUANTUM CONTRIBUTIONS ⚡</h2>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sayor00&theme=chartreuse-dark&background=000000&border=00ff00&stroke=00ff00&ring=00ffff&fire=ff00ff&currStreakNum=00ff00&sideNums=00ff00&currStreakLabel=00ff00&sideLabels=00ff00&dates=ffffff"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sayor00&theme=hacker&hide_border=true&background=000000&stroke=00FF00&ring=00FFFF&fire=FF00FF&currStreakNum=00FF00&sideNums=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=FFFFFF" width="49%">
 </div>
 
 <!-- ENHANCED SOCIAL LINKS -->
