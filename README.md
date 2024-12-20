@@ -7,7 +7,7 @@
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=50&duration=1500&pause=500&color=00FF00&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1500&height=140&lines=QUANTUM%20SYSTEMS%20ONLINE...;INITIATING%20NEURAL%20INTERFACE...;WELCOME%20TO%20THE%20MATRIX)](https://git.io/typing-svg)
 
-![Matrix Rain](https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif)
+  ![Matrix Rain](https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif)
 
 </div>
 
@@ -68,32 +68,12 @@
 
 <!-- ENHANCED SOCIAL LINKS -->
 <div align="center">
-  <h2>🌐 QUANTUM NETWORK LINKS 🌐</h2>
-  
-  <a href="mailto:tahsinfaiyazsayor00@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00ff00" alt="Gmail"/>
-  </a>
-  
-  <a href="https://www.facebook.com/tahsinfaiyazsayor00" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=00ff00" alt="Facebook"/>
-  </a>
-  
-  <a href="https://linkedin.com/in/sayor00" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff00" alt="LinkedIn"/>
-  </a>
-  
-  <a href="https://twitter.com/your-handle" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=00ff00" alt="X Twitter"/>
-  </a>
-  
-  <a href="https://discord.gg/your-server" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=00ff00" alt="Discord"/>
-  </a>
-  
-  <a href="https://portfolio-one-brown-11.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=00ff00" alt="Portfolio"/>
-  </a>
+<h2>🌐 QUANTUM NETWORK LINKS 🌐</h2>
+
+| [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00ff00)](mailto:tahsinfaiyazsayor00@gmail.com) | [![Facebook](https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=00ff00)](https://www.facebook.com/tahsinfaiyazsayor00) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff00)](https://linkedin.com/in/sayor00) | [![X Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=00ff00)](https://twitter.com/your-handle) | [![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=00ff00)](https://discord.gg/your-server) | [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=00ff00)](https://portfolio-one-brown-11.vercel.app/) |
+| --- | --- | --- | --- | --- | --- |
 </div>
+
 
 <!-- VISITOR COUNTER -->
 <div align="center">
