@@ -20,7 +20,7 @@
 <!-- EXTENDED STATS -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayor00&layout=compact&theme=chartreuse-dark&bg_color=000000&hide_border=true&langs_count=10" width="49%">
-  <img src="https://gist.githubusercontent.com/Sayor00/806d6ce1bc2a40602c18813920805a6b/raw/Skill_Chart.svg" width="49%" height="345px" />
+  <img src="https://gist.githubusercontent.com/Sayor00/806d6ce1bc2a40602c18813920805a6b/raw/Skill_Chart.svg" width="49%" />
 </div>
 
 <!-- SKILL MATRIX -->
